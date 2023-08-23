@@ -1,0 +1,24 @@
+sw_volume: 66
+audio_device_state:1:PipeWire Sound Server
+audio_device_state:1:Visualizer
+audio_device_state:1:lossless
+state: play
+current: 4
+time: 229.532000
+random: 0
+repeat: 1
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:other/Adam Levine - Stereo Hearts.mp3
+1:New/Others/Marvels Daredevil soundtrack.mp3
+2:other/METAMORPHOSIS (Slowed + Reverb) [Kii1mdfiX3Y].mp3
+3:New/Others/A Dark Knight soundtrack.mp3
+4:other/Mr.Kitty-After Dark.mp3
+5:phone/Naiad - Sweep (Official Lyric Video).mp3
+6:other/Randall - Wahran [Bass Boosted].mp3
+7:other/See Me Fall (Y2K Remix).mp3
+playlist_end
