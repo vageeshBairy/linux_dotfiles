@@ -2,9 +2,9 @@ sw_volume: 66
 audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:Visualizer
 audio_device_state:1:lossless
-state: play
-current: 4
-time: 229.532000
+state: pause
+current: 1
+time: 38.814000
 random: 0
 repeat: 1
 single: 1
